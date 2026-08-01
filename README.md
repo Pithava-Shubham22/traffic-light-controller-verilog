@@ -84,7 +84,7 @@ Traffic-Light-Controller/
 # 🖥 RTL Schematic
 
 <p align="center">
-<img src="Images/rtl_schematic.png" width="900">
+<img src="IMAGES/rtl_schematic.png" width="900">
 </p>
 
 ---
@@ -92,7 +92,7 @@ Traffic-Light-Controller/
 # 🔧 Synthesized Schematic
 
 <p align="center">
-<img src="Images/synthesized_schematic.png" width="900">
+<img src="IMAGES/synthesized_schematic.png" width="900">
 </p>
 
 ---
@@ -100,7 +100,7 @@ Traffic-Light-Controller/
 # 📈 Simulation Waveform
 
 <p align="center">
-<img src="Images/waveform.png" width="900">
+<img src="IMAGES/waveform.png" width="900">
 </p>
 
 ---
